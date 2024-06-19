@@ -2,6 +2,7 @@
 FPLNet : Face Parsing and Landmarks with Cascaded ConvNets
 
 ![demo](doc/image1.jpg)
+![demo](doc/image2.jpg)
 
 ## Summary
 
