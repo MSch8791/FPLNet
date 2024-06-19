@@ -5,7 +5,7 @@ FPLNet : Face Parsing and Landmarks with Cascaded ConvNets
 
 ## Summary
 
-This repository contains the <b>FPLNet</b> models, a facial landmarks and face parsing estimator. And contains source code to run the inference on the model and provide a test tool to showcase its abilities.
+This repository contains the <b>FPLNet</b> models, a facial landmarks and face parsing estimator. It also contains source code to run the inference on the model and provide a test tool to showcase its abilities.
 
 ## How it works
 
