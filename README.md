@@ -51,7 +51,7 @@ fplnet_256_LaPa_4c_20240516 | LaPa test | 0.02132 (2.13%) | 2.5659 |
 
 Please consider citing this project in your publications if it helps your research or projects. BibTeX reference is as follows.
 ```
-@misc{Scherer2024FPLNet,
+@misc{Scherer_FPLNet_Face_2024,
     author       = {Scherer Michael},
     title        = {FPLNet : Face Parsing and Landmarks with Cascaded ConvNets},
     month        = {May},
