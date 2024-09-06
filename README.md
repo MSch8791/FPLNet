@@ -60,7 +60,7 @@ Please consider citing this project in your publications if it helps your resear
     publisher    = {GitHub},
     journal      = {GitHub repository},
     howpublished = {\url{https://github.com/MSch8791/FPLNet}}
-	doi			 = {10.5281/zenodo.13715936}
+    doi          = {10.5281/zenodo.13715936}
 }
 ```
 
