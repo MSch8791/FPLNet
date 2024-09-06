@@ -55,11 +55,12 @@ Please consider citing this project in your publications if it helps your resear
 @misc{Scherer_FPLNet_Face_2024,
     author       = {Scherer, Michael},
     title        = {FPLNet : Face Parsing and Landmarks with Cascaded ConvNets},
-    month        = {May},
+    month        = {January},
     year         = {2024},
     publisher    = {GitHub},
     journal      = {GitHub repository},
     howpublished = {\url{https://github.com/MSch8791/FPLNet}}
+	doi			 = "10.5281/zenodo.13715936"
 }
 ```
 
