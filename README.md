@@ -44,9 +44,9 @@ python test.py --image=../test/test_image.jpg --output=../test/test_output.jpg
 
 ## Performances
 
-Model name | Test dataset | Landmarks NME<sub>inter-eye</sub> | Landmarks RMSE |
-:---: | :---: | :---: | :---: |
-fplnet_256_LaPa_4c_20240516 | LaPa test | 0.02132 (2.13%) | 2.5659 |
+Model name | Test dataset | Landmarks NME<sub>inter-eye</sub> | Landmarks RMSE | Parsing F1-score |
+:---: | :---: | :---: | :---: | :---: |
+fplnet_256_LaPa_4c_20240516 | LaPa test | 0.02132 (2.13%) | 2.5659 | TO DO |
 
 ## BibTeX Citation
 
@@ -60,7 +60,7 @@ Please consider citing this project in your publications if it helps your resear
     publisher    = {GitHub},
     journal      = {GitHub repository},
     howpublished = {\url{https://github.com/MSch8791/FPLNet}}
-	doi			 = "10.5281/zenodo.13715936"
+	doi			 = {10.5281/zenodo.13715936}
 }
 ```
 
