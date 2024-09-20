@@ -70,7 +70,7 @@ if __name__ == "__main__":
     print("Loading the models...")
     try:
         faceDet             = FaceDetectorYuNet("face_detection/yunet/model/face_detection_yunet_2023mar.onnx")
-        onnxFPLNet          = ONNXModel("../models/fplnet_256_LaPa_4c_20240516.onnx")
+        onnxFPLNet          = ONNXModel("../models/fplnet_256_LaPa_4c_20240517.onnx")
         onnxExecProviders   = onnxFPLNet.getAvailableExecutionProviders()
         onnxFPLNet.load(onnxExecProviders)
         FPLNet              = FPLNetInference(onnxFPLNet, inputShape, iNbC)

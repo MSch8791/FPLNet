@@ -46,7 +46,7 @@ python test.py --image=../test/test_image.jpg --output=../test/test_output.jpg
 
 Model name | Test dataset | Landmarks NME<sub>inter-eye</sub> | Landmarks RMSE | Parsing F1-score |
 :---: | :---: | :---: | :---: | :---: |
-fplnet_256_LaPa_4c_20240516 | LaPa test | 0.02132 (2.13%) | 2.5659 | TO DO |
+fplnet_256_LaPa_4c_20240517 | LaPa test | 0.02132 (2.13%) | 2.5659 | TO DO |
 
 ## BibTeX Citation
 
