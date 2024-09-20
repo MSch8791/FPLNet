@@ -5,7 +5,7 @@ authors:
     given-names: "Michael"
 title: "FPLNet : Face Parsing and Landmarks with Cascaded ConvNets"
 version: 1.0.0
-doi: 10.5281/zenodo.13715936
+doi: 10.5281/zenodo.13821451
 date-released: 2024-05-16
 preferred-citation:
   type: generic
@@ -14,4 +14,4 @@ preferred-citation:
     given-names: "Michael"
   title: "FPLNet : Face Parsing and Landmarks with Cascaded ConvNets"
   year: 2024
-  doi: 10.5281/zenodo.13715936
+  doi: 10.5281/zenodo.13821451
